@@ -27,7 +27,7 @@ class _BudgetHomeState extends State<BudgetHome> {
 
   double totalBudget = 60000;
   List<ExpenseCategory> expenseCategories = [
-    ExpenseCategory(name: 'Groceries', budget: -400),
+    ExpenseCategory(name: 'Groceries', budget: -4000),
     ExpenseCategory(name: 'Bills', budget: -1000),
     ExpenseCategory(name: 'Salary', budget: 65000),
   ];
